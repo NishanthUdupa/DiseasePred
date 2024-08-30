@@ -1,4 +1,3 @@
-%%writefile app3.py
 import streamlit as st
 import os
 import google.generativeai as genai
